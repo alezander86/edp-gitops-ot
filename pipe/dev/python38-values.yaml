@@ -1,0 +1,4 @@
+containers:
+  - env:
+      - name: MY_ENV_VARIABLE
+        value: "my_value"
